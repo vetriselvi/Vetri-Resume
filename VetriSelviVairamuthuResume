@@ -1,0 +1,76 @@
+VETRI SELVI VAIRAMUTHU
+
+1286 West Adams Blvd, Los Angeles CA 90007 | (213) 362 – 8681 | vairamut@usc.edu https://www.linkedin.com/in/vetriselvi | https://github.com/vetriselvi
+
+Professional Summary
+Software Developer and iOS app development enthusiast with 2 years of experience in web application development . Areas of expertise include ASP.NET C# [ MVC architecture in MS Visual Studio ] , PL / SQL queries and Stored Procedures , Xcode - iOS application development in Swift and Objective-C , C++ , Oracle Business Intelligence ( BI ) Publisher reporting tool and Software quality testing . Currently looking for Software / Mobile developer and tester opportunities .
+
+Skills 
+ASP .NET  C#                                                        Verilog , VHDL                         
+Unix Shell Scripting , Perl , Python , PHP               Oracle Business Intelligence Publisher 
+Swift / Objective – C Xcode                                    Git , TCP / IP sockets
+C / C++  - Object Oriented Programming               LabVIEW , Xilinx ISE
+HTML / CSS / JavaScript                                       MS Visual Studio
+Oracle PL SQL                                                       Ruby on Rails
+Twitter Bootstrap                                                    JQuery , Ajax
+Linux , OS X  & Windows operation systems	
+	
+	
+Experience / Work History
+Organization : Tata Consultancy Services Limited	Sept 2012 to Aug 2014
+
+Role :  Software Developer
+•	Developed the Front-end using ASP.NET framework in C# ; modeled it based on MVC architecture 
+
+•	Enhanced the existing back-end SQL queries and packages ( Stored Procedures ) using Oracle PL / SQL suite ( Relational Data Base )
+
+•	Modified existing software to correct bugs , upgrade interfaces and improve performance while remaining focused on client needs 
+
+•	Played key role in designing Business Intelligence reports using Oracle BI Publisher tool for the Procurement and Construction phases that resulted in better print-friendly reports than when created with BI Answers tool 
+
+•	Performing unit testing, black box and white box testing, functional and performance testing and writing use cases of the testing performed 
+
+•	Writing and updating the User Manual of the Web application build according to the client's specification 
+
+•	Prepared detailed daily and weekly status reports concerning project specifications ,progress and activities 
+
+•	Held biweekly conference call with the clients at onsite ( UAE ) for progress report and requirement/enhancement gathering 
+
+•	Worked closely with other team members to plan, design and develop robust solutions in a timely manner 
+
+Education
+University of Southern California , Viterbi School of Engineering CA	May 2016
+
+Master of Science in Computer Engineering
+
+Anna University , Chennai	June 2012
+
+Bachelor of Engineering in Electronics and Instrumentation Engineering
+Projects
+1.	EBay item-search web application - Developed an item-search application Built with : Server-side Scripting using PHP, XML and eBay API 
+
+Link:   http://cs-server.usc.edu:29879/vetri-EbaySearchApp-usingPHP.php
+
+2.Nirvana: Developed a minimalist FB web application consisting only of the essential elements
+- Inbox, Send message and Events. 
+Project concept: Slack the modules which keep users distracted and keep only the modules that are essential
+Built with : Ruby on Rails, JavaScript, Facebook graph api
+Link: http://challengepost.com/software/nonaddictivefacebook
+
+3.iOS Tinder Clone app – Developing an application which mimics the Dating application 
+Features : Login ,Sign up and Facebook Login ,Swipe Right and Swipe left, Contact Users 
+
+4.Network Intrusion Detection System (NIDS)  
+Application : Engineered an Intrusion detection system(which is to be implemented on a network) which checks for malicious data and drops that data packet using packet filtering mechanism
+Built with: Xilinx ISE - Schematics, IP cores and VHDL programming language. 
+
+5.Network Processor with Custom MIPS-like ISA integrated with FIFO, on NetFPGA Application: Designed a Custom 5 Stage Processor using Schematics, IP cores and Verilog in Xilinx ISE. Processor's architecture supported 32-bit instruction and 64-bit data width architecture. Tool : Xilinx ISE 10.1 Platform : NetFPGA 1G
+- Designed and integrated a convertible FIFO that allows data to flow through NetFPGA router and the network processor - Integrated design on a NetFPGA and evaluated at a working frequency of 125 MHz.- Programmed a translator for Custom ISA assembly code to Binary in C
+- Tested processor by running various programs including Bubble sort, Swap of two numbers 
+ 
+6. Content based Routing with Hardware accelerated crypto engine & authentication on a multithreaded network processor:
+The Content-Based Router (CBR) reads the content of a message and routes it to a specific recipient based on its content which is different from the usual IP based routing. Integrated the CBR with the Network Intrusion Detection System along with a crypto engine (encrypts data) 
+
+Chess: Won the 1st place in my college during my sophomore year & Senior year and grabbed the 2 nd place during my junior year
+
+Hobbies: Hackathons, Toastmasters, CocoaHeads Los Angeles / Pasadena, Novel writing
